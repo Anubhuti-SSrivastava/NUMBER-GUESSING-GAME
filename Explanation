@@ -1,0 +1,13 @@
+import random: 
+Random library generates a random number or a random subset in a string. We use randint function of random
+from tkinter import *: 
+To create the user interface, we import Tkinter. 
+Tkinter contains provisions to build the interface with widgets such as buttons, input entry fields etc
+from tkinter import messagebox: 
+To display the user with prompts, we use messagebox. 
+Range is specified from 1 to 10
+Score:10 at the beginning
+10 chances are given to the user 
+Score will be deducted after every wrong guess
+Clues are given like addition ,subtraction,division,multiplication 
+Lets play and enjoy this game
