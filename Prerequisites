@@ -4,3 +4,7 @@ we use Tkinter which is a built-in GUI library in python
 
 python
 import tkinter
+
+we have to import random to generate random number
+
+import random
