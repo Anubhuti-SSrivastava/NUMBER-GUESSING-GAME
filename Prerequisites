@@ -1,1 +1,6 @@
+In this project we use tkinter for making GUI
 
+we use Tkinter which is a built-in GUI library in python
+
+python
+import tkinter
